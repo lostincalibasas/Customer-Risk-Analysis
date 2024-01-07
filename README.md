@@ -29,7 +29,7 @@ In the dynamic landscape of business, understanding and mitigating customer risk
 1. Download the Power BI Desktop application from [Microsoft Power BI](https://powerbi.microsoft.com/desktop/).
 
 2. Clone or download this repository:
-   git clone https://github.com/your-username/customer-risk-analysis-powerbi.git
+   git clone https://github.com/your-lostincalibasas/customer-risk-analysis.git
    
 
 ## Usage
@@ -44,7 +44,7 @@ In the dynamic landscape of business, understanding and mitigating customer risk
 
 ## Data Sources
 
-- **Customer Database**: [Link to Dataset]
+- **Customer Database**: `Churn_Dataset.xlsx`
 
 ## Contributing
 
