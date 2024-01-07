@@ -11,8 +11,8 @@ Welcome to the Customer Risk Analysis Power BI project! This project is designed
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data Sources](#data-sources)
-- [Results](#Results)
 - [Contributing](#contributing)
+- [Results](#Results)
   
 
 ## Introduction
