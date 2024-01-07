@@ -53,6 +53,6 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## Results
 
-You can check out the dashboards on `ChurnDashboard` and `CustomerRiskAnalysis`
+You can check out the dashboards on `ChurnDashboard.png` and `CustomerRiskAnalysis.png`
 
 
