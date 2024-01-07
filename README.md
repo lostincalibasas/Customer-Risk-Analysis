@@ -45,7 +45,7 @@ In the dynamic landscape of business, understanding and mitigating customer risk
 
 ## Data Sources
 
-- **Customer Database**: `Churn_Dataset.xlsx`
+**Customer Database**: `Churn_Dataset.xlsx`
 
 ## Contributing
 
