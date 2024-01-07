@@ -11,8 +11,9 @@ Welcome to the Customer Risk Analysis Power BI project! This project is designed
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data Sources](#data-sources)
+- [Results](#Results)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Introduction
 
@@ -35,7 +36,7 @@ In the dynamic landscape of business, understanding and mitigating customer risk
 ## Usage
 
 1. Open the project file:
-   Customer Retention.pbix
+   `Customer Retention.pbix`
   
 
 2. Connect to your data sources within Power BI.
@@ -50,6 +51,8 @@ In the dynamic landscape of business, understanding and mitigating customer risk
 
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
+## Results
 
-This Power BI project is licensed under the [MIT License](LICENSE).
+You can check out the dashboards on `ChurnDashboard` and `CustomerRiskAnalysis`
+
+
